@@ -26,7 +26,7 @@ covering all provinces, territories, and major census metropolitan areas (CMAs).
 | **Nunavut** | **415** | ▲ elevated | Second highest; near its all-time peak, reflecting deep structural challenges |
 | **Yukon** | **209** | ▼ declining | Remains very high but has pulled back from its peak of ~268 |
 | **Saskatchewan** | **154** | ▲ rising | Highest among the 10 provinces — nearly **double** the national average; has been trending upward since the early 2000s |
-| **Manitoba** | **141** | → flat | Persistently elevated; exactly what you'd expect lol |
+| **Manitoba** | **141** | → flat | Persistently elevated; as expected|
 | **Alberta** | **96** | ▼ declining | Slightly above national average but meaningful long-run improvement |
 | **British Columbia** | **93** | ▼▼ major decline | Largest absolute fall among provinces, dropping from ~167 to 93 (−44 %) |
 | **Newfoundland & Labrador** | **89** | ▲ rising recently | Near its all-time high; recent worsening after years of improvement |
@@ -125,4 +125,5 @@ Crime Severity Canada/
    Saves five PNGs to `Analysis/plots/`.
 
 Requires Python with `pandas`, `numpy`, `matplotlib`, `seaborn`.
+
 
