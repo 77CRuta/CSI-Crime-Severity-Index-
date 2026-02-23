@@ -3,6 +3,17 @@
 Analysis of the **Statistics Canada Crime Severity Index (CSI)** from 1998 to 2024,
 covering all provinces, territories, and major census metropolitan areas (CMAs).
 
+First, given widespread concern about elevated crime levels, it may seem counterintuitive that some indicators suggest Canada is becoming “safer.” 
+This apparent mismatch often reflects differences in what is being measured (for example, severity, reporting, or the specific categories included) and how those measures are trending over time.
+
+Second, even when it is non-violent, crime can still have a marginal effect on inflation through business operating costs. 
+Losses from theft, added spending on security, and additional labour (for example, staffing to deter theft or restricting access by placing goods behind glass) raise costs, some of which are ultimately passed on to consumers through higher prices.
+
+Readers familiar with the broader literature may also note that the total social cost of violent crime exceeds that of non-violent crime. 
+That is generally true, particularly at the administrative level, where policing, courts, and corrections generate substantial public-sector expenditures. 
+However, those costs do not always translate neatly into higher taxpayer burdens in the short run because they sit within public budgets and are influenced by revenue conditions, fiscal capacity, and reallocation decisions. 
+In other words, while violent crime is often more costly in aggregate, non-violent crime can be more directly visible in day-to-day pricing pressures because it feeds into business costs that are easier to pass through.
+
 ---
 
 ## Key Findings
@@ -125,5 +136,6 @@ Crime Severity Canada/
    Saves five PNGs to `Analysis/plots/`.
 
 Requires Python with `pandas`, `numpy`, `matplotlib`, `seaborn`.
+
 
 
